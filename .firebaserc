@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-chart-935d8": {
+      "hosting": {
+        "goty": [
+          "firestore-chart-935d8"
+        ]
+      }
+    }
+  }
+}
